@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032363984066",
+    "project_id": "e-prescription-app-54a9a",
+    "storage_bucket": "e-prescription-app-54a9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032363984066:android:0cd7545c70112dc14d275b",
+        "android_client_info": {
+          "package_name": "com.example.erx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIuyUMbJyMPSdKGrqHzkWZVn0ashhJEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
